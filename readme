@@ -1,0 +1,24 @@
+# Sistema de Biblioteca
+
+Um sistema de gerenciamento de biblioteca construído em Python utilizando SQLite para gerenciamento de dados e Tkinter para a interface gráfica.
+
+## Funcionalidades
+
+- Adicionar autores, livros e empréstimos.
+- Visualizar informações sobre autores e seus livros.
+- Consultar empréstimos de livros por usuário.
+- Filtrar livros por gênero.
+- Recomendações gerais de leitura.
+
+## Pré-requisitos
+
+- Python 3.x
+- Tkinter (geralmente incluído com a instalação padrão do Python)
+- SQLite (também incluído)
+
+## Como usar
+
+1. **Clone o repositório**:
+
+   git clone https://github.com/seu_usuario/sistema-biblioteca.git
+   cd sistema-biblioteca
